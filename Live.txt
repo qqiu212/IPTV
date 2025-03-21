@@ -1328,7 +1328,7 @@ TVBS NEWS,http://192.168.2.1:35455/youtube/m_dhMSvUCIc
 三立新聞,http://192.168.2.1:35455/youtube/MV9mI0GChwo
 三立iNEWS,http://192.168.2.1:35455/youtube/pF507BLtbqU
 鏡新聞,http://192.168.2.1:35455/youtube/Q_a1h5n6_rs
-寰宇新聞,http://192.168.2.1:35455/youtube/Ej3LQM_lTEw
+寰宇新聞,http://192.168.2.1:35455/youtube/g_ND7QiVt78
 公视新闻网,http://192.168.2.1:35455/youtube/quwqlazU-c8
 新唐人,http://192.168.2.1:35455/youtube/IhgU_mc05A
 NBC News,http://192.168.2.1:35455/youtube/Dt1CLInCBy8
