@@ -1,12 +1,12 @@
 ﻿{
 "Home": [
-{"key":"直播","title":"电视直播","pic":"http://1.94.40.162/直播.png"},
-{"key":"网页","title":"网页资源","pic":"http://1.94.40.162/18.jpg"},
-{"key":"采集","title":"采集","pic":"http://1.94.40.162/18.jpg"},
-{"key":"APP","title":"APP电影","pic":"http://1.94.40.162/18.jpg"},
-{"key":"历史","title":"历史","pic":"http://1.94.40.162/历史.png"},
-{"key":"收藏","title":"收藏","pic":"http://1.94.40.162/收藏.png"},
-{"key":"推送","title":"推送","pic":"http://1.94.40.162/推送.png"}
+{"key":"直播","title":"电视直播","pic":"https://raw.githubusercontent.com/qqiu212/IPTV/refs/heads/main/直播.png"},
+{"key":"网页","title":"网页资源","pic":"https://raw.githubusercontent.com/qqiu212/IPTV/refs/heads/main/18.jpg"},
+{"key":"采集","title":"采集","pic":"https://raw.githubusercontent.com/qqiu212/IPTV/refs/heads/main/18.jpg"},
+{"key":"APP","title":"APP电影","pic":"https://raw.githubusercontent.com/qqiu212/IPTV/refs/heads/main/18.jpg"},
+{"key":"历史","title":"历史","pic":"https://raw.githubusercontent.com/qqiu212/IPTV/refs/heads/main/历史.png"},
+{"key":"收藏","title":"收藏","pic":"https://raw.githubusercontent.com/qqiu212/IPTV/refs/heads/main/收藏.png"},
+{"key":"推送","title":"推送","pic":"https://raw.githubusercontent.com/qqiu212/IPTV/refs/heads/main/推送.png"}
 ],
 
 
