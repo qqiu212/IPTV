@@ -95,7 +95,7 @@
 {"name":"解析","url":"https://ww4.taieeb.sbs/addons/dp/player/dp.php?key=","ua":"User-Agent$okhttp/3.12.0#referer$123"},		
 {"name":"夜幕","url":"https://jx.m3u8.pw/?url="}],
 
-"dianshizhibo": "http://1.94.40.162/Live.txt",
+"dianshizhibo": "https://gh-proxy.com/raw.githubusercontent.com/qqiu212/IPTV/refs/heads/main/Live.txt",
  
 "guolvdizhi": "player.css#url=#cnzz.com#51.la",
  
