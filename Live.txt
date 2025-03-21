@@ -1315,7 +1315,7 @@ Big笑工坊,http://192.168.2.1:35455/huya/14776702
 
 
 内网频道,#genre#
-中天新闻,http://192.168.2.1:35455/youtube/meDB6GbpVLM
+中天新闻,http://192.168.2.1:35455/youtube/vr3XyVCR4T0
 中天新闻+,http://192.168.2.1:35455/youtube/DM_PEM8GrIg
 中视新闻,http://192.168.2.1:35455/youtube/TCnaIE_SAtM
 東森新聞 51,http://192.168.2.1:35455/youtube/E0zhe2gkXBs
