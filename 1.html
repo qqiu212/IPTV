@@ -1,0 +1,98 @@
+﻿<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>虚拟货币实时价格（人民币）</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            flex-direction: column;
+            background-color: #f0f0f0;
+        }
+        h1 {
+            margin-bottom: 20px;
+        }
+        .crypto {
+            background-color: #fff;
+            padding: 20px;
+            margin: 10px;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            width: 300px;
+            text-align: center;
+        }
+        .crypto h2 {
+            margin: 0;
+            font-size: 1.5em;
+        }
+        .crypto p {
+            margin: 10px 0 0;
+            font-size: 1.2em;
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <h1>虚拟货币实时价格（人民币）</h1>
+    <div id="crypto-container">
+        <div class="crypto" id="btc">
+            <h2>比特币 (BTC)</h2>
+            <p>加载中...</p>
+        </div>
+        <div class="crypto" id="eth">
+            <h2>以太坊 (ETH)</h2>
+            <p>加载中...</p>
+        </div>
+        <div class="crypto" id="bnb">
+            <h2>币安币 (BNB)</h2>
+            <p>加载中...</p>
+        </div>
+        <div class="crypto" id="doge">
+            <h2>狗狗币 (DOGE)</h2>
+            <p>加载中...</p>
+        </div>
+        <div class="crypto" id="pepe">
+            <h2>PEPE</h2>
+            <p>加载中...</p>
+        </div>
+    </div>
+
+    <script>
+        // CoinGecko API 的 URL，使用 CNY 作为货币单位
+        const apiUrl = "https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum,binancecoin,dogecoin,pepe&vs_currencies=cny";
+
+        // 获取数据并更新页面
+        async function fetchCryptoPrices() {
+            try {
+                const response = await fetch(apiUrl);
+                const data = await response.json();
+
+                // 更新比特币价格
+                document.getElementById('btc').querySelector('p').textContent = `¥${data.bitcoin.cny}`;
+                // 更新以太坊价格
+                document.getElementById('eth').querySelector('p').textContent = `¥${data.ethereum.cny}`;
+                // 更新币安币价格
+                document.getElementById('bnb').querySelector('p').textContent = `¥${data.binancecoin.cny}`;
+                // 更新狗狗币价格
+                document.getElementById('doge').querySelector('p').textContent = `¥${data.dogecoin.cny}`;
+                // 更新PEPE价格
+                document.getElementById('pepe').querySelector('p').textContent = `¥${data.pepe.cny}`;
+            } catch (error) {
+                console.error("获取数据失败:", error);
+                document.getElementById('crypto-container').innerHTML = "<p>无法加载数据，请稍后重试。</p>";
+            }
+        }
+
+        // 页面加载时获取数据
+        fetchCryptoPrices();
+
+        // 每60秒刷新一次数据
+        setInterval(fetchCryptoPrices, 60000);
+    </script>
+</body>
+</html>
