@@ -1331,11 +1331,13 @@ TVBS NEWS,http://192.168.2.1:35455/youtube/m_dhMSvUCIc
 寰宇新聞,http://192.168.2.1:35455/youtube/g_ND7QiVt78
 公视新闻网,http://192.168.2.1:35455/youtube/quwqlazU-c8
 新唐人,http://192.168.2.1:35455/youtube/IhgU_mc05A
+全球新聞,http://192.168.2.1:35455/youtube/1h_xWOATI7I
 NBC News,http://192.168.2.1:35455/youtube/Dt1CLInCBy8
 FRANCE 24,http://192.168.2.1:35455/youtube/Ap-UM1O9RBU
 CNN-News18,http://192.168.2.1:35455/youtube/Yz0rklJXHy8
 MIRROR NOW,http://192.168.2.1:35455/youtube/GN4OUcwdJnc
 Bloomberg,http://192.168.2.1:35455/youtube/iEpJwprxDdk
+
 
 
 动漫频道,#genre#
