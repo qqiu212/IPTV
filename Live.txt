@@ -1314,7 +1314,7 @@ Big笑工坊,http://192.168.2.1:35455/huya/14776702
 糊了的胡萝卜,http://192.168.2.1:35455/huya/25725150
 
 
-内网频道,#genre#
+油管频道,#genre#
 中天新闻,http://192.168.2.1:35455/youtube/AxGD5iiz2nY
 中天新闻+,http://192.168.2.1:35455/youtube/DM_PEM8GrIg
 中视新闻,http://192.168.2.1:35455/youtube/TCnaIE_SAtM
