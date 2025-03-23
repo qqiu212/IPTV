@@ -1085,289 +1085,96 @@ CN卡通,https://cdn.iptv8k.top/dl/jrys.php?id=364&time=20240926215313&ip=111.22
 怡然A,http://gcalic.v.myalicdn.com/gc/xiongmao12_1/index.m3u8
 怡然B,http://gcalic.v.myalicdn.com/gc/xiongmao16_1/index.m3u8
 
-台湾频道,#genre#
-民視第一台,http://192.168.2.1:50007/4gtv-4gtv003/index.m3u8
-民視台灣台,http://192.168.2.1:50007/4gtv-4gtv001/index.m3u8
-民視,http://192.168.2.1:50007/4gtv-4gtv002/index.m3u8
-台視,http://192.168.2.1:50007/4gtv-4gtv066/index.m3u8
-大愛電視,http://192.168.2.1:50007/4gtv-live007/index.m3u8
-中視,http://192.168.2.1:50007/4gtv-4gtv040/index.m3u8
-中視經典台,http://192.168.2.1:50007/4gtv-4gtv080/index.m3u8
-華視,http://192.168.2.1:50007/4gtv-4gtv041/index.m3u8
-三立綜合台,http://192.168.2.1:50007/4gtv-live207/index.m3u8
-客家電視台,http://192.168.2.1:50007/4gtv-4gtv043/index.m3u8
-八大綜藝台,http://192.168.2.1:50007/4gtv-4gtv039/index.m3u8
-中視菁采台,http://192.168.2.1:50007/4gtv-4gtv064/index.m3u8
-TVBS精采台,http://192.168.2.1:50007/4gtv-4gtv067/index.m3u8
-愛爾達娛樂台,http://192.168.2.1:50007/4gtv-4gtv070/index.m3u8
-靖天綜合台,http://192.168.2.1:50007/4gtv-4gtv046/index.m3u8
-靖天日本台,http://192.168.2.1:50007/4gtv-4gtv047/index.m3u8
-新唐人亞太台,http://192.168.2.1:50007/4gtv-live050/index.m3u8
-ARIRANG阿里郎頻道,http://192.168.2.1:50007/4gtv-4gtv079/index.m3u8
-Global Trekker,http://192.168.2.1:50007/4gtv-live112/index.m3u8
-原住民族電視台,http://192.168.2.1:50007/4gtv-live014/index.m3u8
-Smart知識台,http://192.168.2.1:50007/litv-longturn19/index.m3u8
-東森購物四台,http://192.168.2.1:50007/4gtv-live049/index.m3u8
-LiveABC互動英語頻道,http://192.168.2.1:50007/4gtv-live030/index.m3u8
-達文西頻道,http://192.168.2.1:50007/4gtv-4gtv018/index.m3u8
-ELTV生活英語台,http://192.168.2.1:50007/litv-longturn20/index.m3u8
-Nick Jr. 兒童頻道,http://192.168.2.1:50007/4gtv-live032/index.m3u8
-尼克兒童頻道,http://192.168.2.1:50007/4gtv-live105/index.m3u8
-DreamWorks 夢工廠動畫,http://192.168.2.1:50007/4gtv-live017/index.m3u8
-靖天卡通台,http://192.168.2.1:50007/4gtv-4gtv044/index.m3u8
-靖洋卡通Nice Bingo,http://192.168.2.1:50007/4gtv-4gtv057/index.m3u8
-龍華卡通台,http://192.168.2.1:50007/litv-longturn01/index.m3u8
-台灣戲劇台,http://192.168.2.1:50007/litv-longturn22/index.m3u8
-MOMO親子台,http://192.168.2.1:50007/4gtv-live107/index.m3u8
-東森購物一台,http://192.168.2.1:50007/4gtv-live047/index.m3u8
-鏡電視新聞台,http://192.168.2.1:50007/4gtv-4gtv075/index.m3u8
-東森新聞台,http://192.168.2.1:50007/4gtv-4gtv152/index.m3u8
-華視新聞,http://192.168.2.1:50007/4gtv-4gtv052/index.m3u8
-民視新聞台,http://192.168.2.1:50007/litv-ftv13/index.m3u8
-三立新聞iNEWS,http://192.168.2.1:50007/4gtv-live089/index.m3u8
-TVBS新聞,http://192.168.2.1:50007/4gtv-4gtv072/index.m3u8
-東森財經新聞台,http://192.168.2.1:50007/4gtv-4gtv153/index.m3u8
-中視新聞,http://192.168.2.1:50007/4gtv-4gtv074/index.m3u8
-中天新聞台,http://192.168.2.1:50007/4gtv-4gtv009/index.m3u8
-Bloomberg TV,http://192.168.2.1:50007/4gtv-live059/index.m3u8
-寰宇新聞台,http://192.168.2.1:50007/litv-longturn14/index.m3u8
-寰宇新聞台灣台,http://192.168.2.1:50007/litv-longturn15/index.m3u8
-SBN全球財經台,http://192.168.2.1:50007/4gtv-live060/index.m3u8
-寰宇財經台,http://192.168.2.1:50007/litv-longturn23/index.m3u8
-台視新聞,http://192.168.2.1:50007/4gtv-4gtv051/index.m3u8
-第1商業台,http://192.168.2.1:50007/4gtv-4gtv104/index.m3u8
-倪珍播新聞,http://192.168.2.1:50007/nnews-zh/index.m3u8
-倪珍英語新聞,http://192.168.2.1:50007/nnews-en/index.m3u8
-TVBS,http://192.168.2.1:50007/4gtv-4gtv073/index.m3u8
-東森購物二台,http://192.168.2.1:50007/4gtv-live046/index.m3u8
-民視綜藝台,http://192.168.2.1:50007/4gtv-4gtv004/index.m3u8
-豬哥亮歌廳秀,http://192.168.2.1:50007/4gtv-4gtv006/index.m3u8
-靖天育樂台,http://192.168.2.1:50007/4gtv-4gtv062/index.m3u8
-KLT-靖天國際台,http://192.168.2.1:50007/4gtv-4gtv063/index.m3u8
-Nice TV 靖天歡樂台,http://192.168.2.1:50007/4gtv-4gtv054/index.m3u8
-靖天資訊台,http://192.168.2.1:50007/4gtv-4gtv065/index.m3u8
-TVBS歡樂台,http://192.168.2.1:50007/4gtv-4gtv068/index.m3u8
-韓國娛樂台 KMTV,http://192.168.2.1:50007/4gtv-live377/index.m3u8
-ROCK Entertainment,http://192.168.2.1:50007/4gtv-live080/index.m3u8
-Lifetime 娛樂頻道,http://192.168.2.1:50007/4gtv-live029/index.m3u8
-電影原聲台CMusic,http://192.168.2.1:50007/4gtv-live031/index.m3u8
-TRACE Urban,http://192.168.2.1:50007/4gtv-4gtv082/index.m3u8
-MTV Live HD 音樂頻道,http://192.168.2.1:50007/4gtv-live025/index.m3u8
-Mezzo Live HD,http://192.168.2.1:50007/4gtv-4gtv083/index.m3u8
-CLASSICA 古典樂,http://192.168.2.1:50007/4gtv-4gtv059/index.m3u8
-東森購物三台,http://192.168.2.1:50007/4gtv-live048/index.m3u8
-INULTRA,http://192.168.2.1:50007/4gtv-live096/index.m3u8
-博斯高球台,http://192.168.2.1:50007/litv-longturn05/index.m3u8
-博斯高球二台,http://192.168.2.1:50007/litv-longturn06/index.m3u8
-博斯運動一台,http://192.168.2.1:50007/litv-longturn07/index.m3u8
-博斯無限台,http://192.168.2.1:50007/litv-longturn10/index.m3u8
-博斯網球台,http://192.168.2.1:50007/litv-longturn09/index.m3u8
-博斯運動二台,http://192.168.2.1:50007/litv-longturn08/index.m3u8
-博斯魅力台,http://192.168.2.1:50007/litv-longturn04/index.m3u8
-TRACE Sport Stars,http://192.168.2.1:50007/4gtv-4gtv077/index.m3u8
-智林體育台,http://192.168.2.1:50007/4gtv-4gtv101/index.m3u8
-時尚運動X,http://192.168.2.1:50007/4gtv-4gtv014/index.m3u8
-車迷TV,http://192.168.2.1:50007/4gtv-live201/index.m3u8
-GINX Esports TV,http://192.168.2.1:50007/4gtv-4gtv053/index.m3u8
-Pet Club TV,http://192.168.2.1:50007/4gtv-live110/index.m3u8
-民視旅遊台,http://192.168.2.1:50007/litv-ftv07/index.m3u8
-滾動力rollor,http://192.168.2.1:50007/4gtv-live012/index.m3u8
-亞洲旅遊台,http://192.168.2.1:50007/4gtv-4gtv076/index.m3u8
-fun探索娛樂台,http://192.168.2.1:50007/4gtv-live011/index.m3u8
-幸福空間居家台,http://192.168.2.1:50007/4gtv-live206/index.m3u8
-Love Nature,http://192.168.2.1:50007/4gtv-live208/index.m3u8
-History 歷史頻道,http://192.168.2.1:50007/4gtv-live026/index.m3u8
-愛爾達生活旅遊台,http://192.168.2.1:50007/4gtv-live120/index.m3u8
-LUXE TV Channel,http://192.168.2.1:50007/4gtv-live121/index.m3u8
-TV5MONDE STYLE HD 生活時尚,http://192.168.2.1:50007/4gtv-live122/index.m3u8
-龍華偶像台,http://192.168.2.1:50007/litv-longturn12/index.m3u8
-MagellanTV頻道 (麥哲倫頻道),http://192.168.2.1:50007/4gtv-live123/index.m3u8
-公視戲劇,http://192.168.2.1:50007/4gtv-4gtv042/index.m3u8
-民視影劇台,http://192.168.2.1:50007/litv-ftv09/index.m3u8
-龍華戲劇台,http://192.168.2.1:50007/litv-longturn18/index.m3u8
-HITS頻道,http://192.168.2.1:50007/4gtv-live620/index.m3u8
-龍華日韓台,http://192.168.2.1:50007/litv-longturn11/index.m3u8
-八大精彩台,http://192.168.2.1:50007/4gtv-4gtv034/index.m3u8
-霹靂布袋戲,http://192.168.2.1:50007/4gtv-live145/index.m3u8
-靖天戲劇台,http://192.168.2.1:50007/4gtv-4gtv058/index.m3u8
-靖洋戲劇台,http://192.168.2.1:50007/4gtv-4gtv045/index.m3u8
-CI 罪案偵查頻道,http://192.168.2.1:50007/4gtv-live027/index.m3u8
-視納華仁紀實頻道,http://192.168.2.1:50007/4gtv-4gtv013/index.m3u8
-影迷數位紀實台,http://192.168.2.1:50007/4gtv-live023/index.m3u8
-金光布袋戲,http://192.168.2.1:50007/4gtv-live144/index.m3u8
-ROCK Action,http://192.168.2.1:50007/4gtv-live138/index.m3u8
-采昌影劇台,http://192.168.2.1:50007/4gtv-4gtv049/index.m3u8
-靖天映畫,http://192.168.2.1:50007/4gtv-4gtv055/index.m3u8
-靖天電影台,http://192.168.2.1:50007/4gtv-4gtv061/index.m3u8
-龍華電影台,http://192.168.2.1:50007/litv-longturn03/index.m3u8
-龍華經典台,http://192.168.2.1:50007/litv-longturn21/index.m3u8
-龍華洋片台,http://192.168.2.1:50007/litv-longturn02/index.m3u8
-影迷數位電影台,http://192.168.2.1:50007/4gtv-4gtv011/index.m3u8
-amc電影台,http://192.168.2.1:50007/4gtv-4gtv017/index.m3u8
-CinemaWorld,http://192.168.2.1:50007/4gtv-live069/index.m3u8
-My Cinema Europe HD 我的歐洲電影,http://192.168.2.1:50007/4gtv-live157/index.m3u8
-好消息,http://192.168.2.1:50007/litv-ftv16/index.m3u8
-好消息2台,http://192.168.2.1:50007/litv-ftv17/index.m3u8
-大愛二台,http://192.168.2.1:50007/4gtv-live106/index.m3u8
-人間衛視,http://192.168.2.1:50007/4gtv-live008/index.m3u8
-FRANCE24 英文台,http://192.168.2.1:50007/4gtv-live146/index.m3u8
-半島國際新聞台,http://192.168.2.1:50007/litv-ftv10/index.m3u8
-VOA美國之音,http://192.168.2.1:50007/litv-ftv03/index.m3u8
-CNBC Asia 財經台,http://192.168.2.1:50007/4gtv-live130/index.m3u8
-DW德國之聲,http://192.168.2.1:50007/4gtv-live071/index.m3u8
-國會頻道1,http://192.168.2.1:50007/4gtv-4gtv084/index.m3u8
-國會頻道2,http://192.168.2.1:50007/4gtv-4gtv085/index.m3u8
-TVBS綜藝台,http://192.168.2.1:50007/4gtv-live087/index.m3u8
-TVBS台劇台,http://192.168.2.1:50007/4gtv-live088/index.m3u8
-經典電影台,http://192.168.2.1:50007/4gtv-live021/index.m3u8
-經典卡通台,http://192.168.2.1:50007/4gtv-live022/index.m3u8
-兒童卡通台,http://192.168.2.1:50007/4gtv-live009/index.m3u8
-精選動漫台,http://192.168.2.1:50007/4gtv-live024/index.m3u8
-戲劇免費看 1台,http://192.168.2.1:50007/4gtv-live010/index.m3u8
-公視金獎台,http://192.168.2.1:50007/ofiii13/index.m3u8
-哆啦Ａ夢台,http://192.168.2.1:50007/ofiii22/index.m3u8
-新哆啦A夢(中文版),http://192.168.2.1:50007/ofiii23/index.m3u8
-TVBS食尚玩家,http://192.168.2.1:50007/ofiii31/index.m3u8
-東森娛樂台,http://192.168.2.1:50007/ofiii32/index.m3u8
-中天亞洲精采台,http://192.168.2.1:50007/ofiii36/index.m3u8
-經典劇場,http://192.168.2.1:50007/ofiii38/index.m3u8
-Yes娛樂,http://192.168.2.1:50007/ofiii47/index.m3u8
-Focus風采戲劇台,http://192.168.2.1:50007/ofiii1048/index.m3u8
-掏掏新聞,http://192.168.2.1:50007/ofiii50/index.m3u8
-柯文哲政治風波,http://192.168.2.1:50007/ofiii51/index.m3u8
-國際大小事,http://192.168.2.1:50007/ofiii55/index.m3u8
-第1財經,http://192.168.2.1:50007/ofiii64/index.m3u8
-Golden 強片台,http://192.168.2.1:50007/ofiii70/index.m3u8
-周星馳台,http://192.168.2.1:50007/ofiii73/index.m3u8
-歐飛電影台,http://192.168.2.1:50007/ofiii74/index.m3u8
-歐飛動作電影台,http://192.168.2.1:50007/ofiii75/index.m3u8
-Focus探索新知台,http://192.168.2.1:50007/ofiii82/index.m3u8
-鄉民大學問,http://192.168.2.1:50007/ofiii83/index.m3u8
-野球名人房,http://192.168.2.1:50007/ofiii84/index.m3u8
-社會NOW什麼,http://192.168.2.1:50007/ofiii85/index.m3u8
-泰可愛旋風,http://192.168.2.1:50007/ofiii89/index.m3u8
-演唱會直擊,http://192.168.2.1:50007/ofiii91/index.m3u8
-健康問良醫,http://192.168.2.1:50007/ofiii92/index.m3u8
-Freeman @台灣,http://192.168.2.1:50007/ofiii95/index.m3u8
-饕客揪愛吃,http://192.168.2.1:50007/ofiii96/index.m3u8
-人氣動漫預告,http://192.168.2.1:50007/ofiii97/index.m3u8
-銀髮聚樂部,http://192.168.2.1:50007/ofiii99/index.m3u8
-錦繡安寧,http://192.168.2.1:50007/ofiii100/index.m3u8
-琅琊榜,http://192.168.2.1:50007/ofiii101/index.m3u8
-扶搖,http://192.168.2.1:50007/ofiii102/index.m3u8
-三國,http://192.168.2.1:50007/ofiii103/index.m3u8
-武媚娘傳奇,http://192.168.2.1:50007/ofiii104/index.m3u8
-長樂曲,http://192.168.2.1:50007/ofiii105/index.m3u8
-軍師聯盟,http://192.168.2.1:50007/ofiii106/index.m3u8
-軍師聯盟2 虎嘯龍吟,http://192.168.2.1:50007/ofiii107/index.m3u8
-東宮(完整版),http://192.168.2.1:50007/ofiii108/index.m3u8
-錦衣之下,http://192.168.2.1:50007/ofiii109/index.m3u8
-楚喬傳,http://192.168.2.1:50007/ofiii110/index.m3u8
-倚天屠龍記 2019,http://192.168.2.1:50007/ofiii111/index.m3u8
-披荊斬棘的大小姐,http://192.168.2.1:50007/ofiii112/index.m3u8
-步步驚心,http://192.168.2.1:50007/ofiii113/index.m3u8
-九重紫,http://192.168.2.1:50007/ofiii114/index.m3u8
-私藏浪漫,http://192.168.2.1:50007/ofiii115/index.m3u8
-去有風的地方,http://192.168.2.1:50007/ofiii116/index.m3u8
-以愛為營,http://192.168.2.1:50007/ofiii117/index.m3u8
-向風而行,http://192.168.2.1:50007/ofiii118/index.m3u8
-以家人之名,http://192.168.2.1:50007/ofiii119/index.m3u8
-獵狐,http://192.168.2.1:50007/ofiii120/index.m3u8
-好運家,http://192.168.2.1:50007/ofiii121/index.m3u8
-請叫我總監,http://192.168.2.1:50007/ofiii122/index.m3u8
-司藤,http://192.168.2.1:50007/ofiii123/index.m3u8
-他們的奇妙時光,http://192.168.2.1:50007/ofiii124/index.m3u8
-豬哥壹級棒,http://192.168.2.1:50007/ofiii126/index.m3u8
-醫師好辣,http://192.168.2.1:50007/ofiii128/index.m3u8
-WTO姐妹會,http://192.168.2.1:50007/ofiii129/index.m3u8
-綜藝玩很大,http://192.168.2.1:50007/ofiii130/index.m3u8
-全民星攻略,http://192.168.2.1:50007/ofiii131/index.m3u8
-健康2.0,http://192.168.2.1:50007/ofiii132/index.m3u8
-台灣啟示錄,http://192.168.2.1:50007/ofiii133/index.m3u8
-法眼黑與白,http://192.168.2.1:50007/ofiii134/index.m3u8
-天才衝衝衝,http://192.168.2.1:50007/ofiii135/index.m3u8
-一步一腳印 發現新台灣,http://192.168.2.1:50007/ofiii136/index.m3u8
-女人我最大,http://192.168.2.1:50007/ofiii137/index.m3u8
-看板人物,http://192.168.2.1:50007/ofiii138/index.m3u8
-威廉沈歡樂送,http://192.168.2.1:50007/ofiii139/index.m3u8
-一字千金,http://192.168.2.1:50007/ofiii142/index.m3u8
-11點熱吵店,http://192.168.2.1:50007/ofiii143/index.m3u8
-白雪公主非死不可,http://192.168.2.1:50007/ofiii146/index.m3u8
-好搭檔,http://192.168.2.1:50007/ofiii147/index.m3u8
-頭腦共助,http://192.168.2.1:50007/ofiii148/index.m3u8
-凌晨兩點的灰姑娘,http://192.168.2.1:50007/ofiii149/index.m3u8
-台灣靈異事件,http://192.168.2.1:50007/ofiii150/index.m3u8
-包青天 1993版,http://192.168.2.1:50007/ofiii151/index.m3u8
-我的婆婆怎麼那麼可愛,http://192.168.2.1:50007/ofiii152/index.m3u8
-村裡來了個暴走女外科,http://192.168.2.1:50007/ofiii153/index.m3u8
-一把青,http://192.168.2.1:50007/ofiii154/index.m3u8
-茶金,http://192.168.2.1:50007/ofiii155/index.m3u8
-苦力,http://192.168.2.1:50007/ofiii156/index.m3u8
-俗女養成記,http://192.168.2.1:50007/ofiii157/index.m3u8
-麻醉風暴,http://192.168.2.1:50007/ofiii158/index.m3u8
-雖然等級只有1級但固有技能是最強的,http://192.168.2.1:50007/ofiii159/index.m3u8
-擁有超常技能的異世界流浪美食家,http://192.168.2.1:50007/ofiii160/index.m3u8
-WIND BREAKER—防風少年—,http://192.168.2.1:50007/ofiii161/index.m3u8
-在異世界獲得超強能力的我，在現實世界照樣無敵～等級提升改變人生命運～,http://192.168.2.1:50007/ofiii162/index.m3u8
-第一神拳,http://192.168.2.1:50007/ofiii163/index.m3u8
-刀劍神域(中文版),http://192.168.2.1:50007/ofiii164/index.m3u8
-蠟筆小新(中文版),http://192.168.2.1:50007/ofiii165/index.m3u8
-我們這一家,http://192.168.2.1:50007/ofiii166/index.m3u8
-獵人(中文版),http://192.168.2.1:50007/ofiii167/index.m3u8
-中華一番(中文版),http://192.168.2.1:50007/ofiii168/index.m3u8
-隊長小翼(中文版),http://192.168.2.1:50007/ofiii169/index.m3u8
-SPY X FAMILY 間諜家家酒,http://192.168.2.1:50007/ofiii170/index.m3u8
-SPY X FAMILY 間諜家家酒(中文版),http://192.168.2.1:50007/ofiii171/index.m3u8
-無職轉生，到了異世界就拿出真本事,http://192.168.2.1:50007/ofiii172/index.m3u8
-關於我轉生變成史萊姆這檔事(國),http://192.168.2.1:50007/ofiii173/index.m3u8
-夏目友人帳,http://192.168.2.1:50007/ofiii174/index.m3u8
-家庭教師HITMAN REBORN!(中文版),http://192.168.2.1:50007/ofiii175/index.m3u8
-烘焙王(中文版),http://192.168.2.1:50007/ofiii176/index.m3u8
-鋼之鍊金術師,http://192.168.2.1:50007/ofiii177/index.m3u8
-JOJO 的奇妙冒險,http://192.168.2.1:50007/ofiii178/index.m3u8
-葬送的芙莉蓮,http://192.168.2.1:50007/ofiii179/index.m3u8
-史上最強弟子兼一(中文版),http://192.168.2.1:50007/ofiii180/index.m3u8
-爆漫王(中文版),http://192.168.2.1:50007/ofiii181/index.m3u8
-忍者亂太郎(中文版),http://192.168.2.1:50007/ofiii182/index.m3u8
-膽大黨,http://192.168.2.1:50007/ofiii183/index.m3u8
-新忍者哈特利,http://192.168.2.1:50007/ofiii184/index.m3u8
-生命的贏家,http://192.168.2.1:50007/ofiii192/index.m3u8
-海派甜心,http://192.168.2.1:50007/ofiii195/index.m3u8
-不良笑花,http://192.168.2.1:50007/ofiii196/index.m3u8
-戰神,http://192.168.2.1:50007/ofiii197/index.m3u8
-大新聞大爆卦,http://192.168.2.1:50007/ofiii201/index.m3u8
-新聞大白話,http://192.168.2.1:50007/ofiii202/index.m3u8
-文茜的世界周報,http://192.168.2.1:50007/ofiii203/index.m3u8
-寰宇全視界,http://192.168.2.1:50007/ofiii204/index.m3u8
-文茜的世界財經周報,http://192.168.2.1:50007/ofiii205/index.m3u8
-環球大戰線,http://192.168.2.1:50007/ofiii206/index.m3u8
-少康戰情室,http://192.168.2.1:50007/ofiii207/index.m3u8
-國民大會,http://192.168.2.1:50007/ofiii208/index.m3u8
-電動車時代,http://192.168.2.1:50007/ofiii215/index.m3u8
-SiCAR愛車酷,http://192.168.2.1:50007/ofiii216/index.m3u8
-狂人日誌,http://192.168.2.1:50007/ofiii217/index.m3u8
-脖子解說 Mr. Neck,http://192.168.2.1:50007/ofiii218/index.m3u8
-食尚玩家-Hello腹餓代,http://192.168.2.1:50007/ofiii225/index.m3u8
-食尚玩家-天菜就醬吃,http://192.168.2.1:50007/ofiii226/index.m3u8
-食尚玩家-2天1夜go,http://192.168.2.1:50007/ofiii227/index.m3u8
-食尚玩家-熱血48小時,http://192.168.2.1:50007/ofiii228/index.m3u8
-食尚玩家-魚肉鄉民,http://192.168.2.1:50007/ofiii229/index.m3u8
-食尚玩家-瘋狂總部,http://192.168.2.1:50007/ofiii230/index.m3u8
-非凡大探索,http://192.168.2.1:50007/ofiii234/index.m3u8
-台灣1001個故事,http://192.168.2.1:50007/ofiii235/index.m3u8
-詹姆士出走料理,http://192.168.2.1:50007/ofiii236/index.m3u8
-進擊的台灣,http://192.168.2.1:50007/ofiii237/index.m3u8
-世界第一等,http://192.168.2.1:50007/ofiii238/index.m3u8
-台灣第一等,http://192.168.2.1:50007/ofiii239/index.m3u8
-溢遊未盡,http://192.168.2.1:50007/ofiii240/index.m3u8
-台灣真善美,http://192.168.2.1:50007/ofiii241/index.m3u8
-請問今晚住誰家,http://192.168.2.1:50007/ofiii242/index.m3u8
-紓壓雷雨聲,http://192.168.2.1:50007/ofiii250/index.m3u8
-療癒下雨聲,http://192.168.2.1:50007/ofiii251/index.m3u8
-放鬆的爵士午後,http://192.168.2.1:50007/ofiii252/index.m3u8
-野外燒柴火聲,http://192.168.2.1:50007/ofiii253/index.m3u8
-夏日陽光海浪聲,http://192.168.2.1:50007/ofiii254/index.m3u8
+咪咕频道,#genre#
+•咪咕「移动」,#genre#
+晴彩广场舞「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000020000011523/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=YanG-1989
+晴彩少年「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000020000011525/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011525&livemode=1&stbId=YanG-1989
+晴彩竞技「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000020000011528/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=YanG-1989
+晴彩篮球「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000020000011529/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011529&livemode=1&stbId=YanG-1989
+咪咕直播4K「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=YanG-1989
+咪咕直播 𝟙「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000001000005308/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=YanG-1989
+咪咕直播 𝟚「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000001000005969/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=YanG-1989
+咪咕直播 𝟛「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000001000007218/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=YanG-1989
+咪咕直播 𝟜「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000001000008001/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008001&livemode=1&stbId=YanG-1989
+咪咕直播 𝟝「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000001000008176/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008176&livemode=1&stbId=YanG-1989
+咪咕直播 𝟞「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000001000008379/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008379&livemode=1&stbId=YanG-1989
+咪咕直播 𝟟「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000001000010129/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010129&livemode=1&stbId=YanG-1989
+咪咕直播 𝟠「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000001000010948/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010948&livemode=1&stbId=YanG-1989
+咪咕直播 𝟡「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000001000028638/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000028638&livemode=1&stbId=YanG-1989
+咪咕直播 𝟙𝟘「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000001000031494/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000031494&livemode=1&stbId=YanG-1989
+咪咕直播 𝟙𝟙「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000010000000097/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000000097&livemode=1&stbId=YanG-1989
+咪咕直播 𝟙𝟚「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000010000002019/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002019&livemode=1&stbId=YanG-1989
+咪咕直播 𝟙𝟛「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000010000002809/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002809&livemode=1&stbId=YanG-1989
+咪咕直播 𝟙𝟜「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000010000003915/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000003915&livemode=1&stbId=YanG-1989
+咪咕直播 𝟙𝟝「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000010000004193/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000004193&livemode=1&stbId=YanG-1989
+咪咕直播 𝟙𝟞「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000010000005837/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005837&livemode=1&stbId=YanG-1989
+咪咕直播 𝟙𝟟「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000010000006077/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006077&livemode=1&stbId=YanG-1989
+咪咕直播 𝟙𝟠「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000010000006658/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006658&livemode=1&stbId=YanG-1989
+咪咕直播 𝟙𝟡「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000010000009788/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000009788&livemode=1&stbId=YanG-1989
+咪咕直播 𝟚𝟘「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000010000010833/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000010833&livemode=1&stbId=YanG-1989
+咪咕直播 𝟚𝟙「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000010000011297/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011297&livemode=1&stbId=YanG-1989
+咪咕直播 𝟚𝟚「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000010000011518/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011518&livemode=1&stbId=YanG-1989
+咪咕直播 𝟚𝟛「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000010000012558/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012558&livemode=1&stbId=YanG-1989
+咪咕直播 𝟚𝟜「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000010000012616/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012616&livemode=1&stbId=YanG-1989
+咪咕直播 𝟚𝟝「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000010000015470/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015470&livemode=1&stbId=YanG-1989
+咪咕直播 𝟚𝟞「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000010000015560/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015560&livemode=1&stbId=YanG-1989
+咪咕直播 𝟚𝟟「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000010000017678/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000017678&livemode=1&stbId=YanG-1989
+咪咕直播 𝟚𝟠「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000010000019839/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000019839&livemode=1&stbId=YanG-1989
+咪咕直播 𝟚𝟡「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000010000021904/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000021904&livemode=1&stbId=YanG-1989
+咪咕直播 𝟛𝟘「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000010000023434/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000023434&livemode=1&stbId=YanG-1989
+咪咕直播 𝟛𝟙「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000010000025380/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000025380&livemode=1&stbId=YanG-1989
+咪咕直播 𝟛𝟚「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000010000027691/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000027691&livemode=1&stbId=YanG-1989
+咪咕直播 𝟛𝟛「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000010000031669/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000031669&livemode=1&stbId=YanG-1989
+咪咕直播 𝟛𝟜「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000020000011518/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011518&livemode=1&stbId=YanG-1989
+咪咕直播 𝟛𝟝「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000020000011519/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011519&livemode=1&stbId=YanG-1989
+咪咕直播 𝟛𝟞「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000020000011520/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011520&livemode=1&stbId=YanG-1989
+咪咕直播 𝟛𝟟「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000020000011521/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011521&livemode=1&stbId=YanG-1989
+咪咕直播 𝟛𝟠「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000020000011522/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011522&livemode=1&stbId=YanG-1989
 
+•咪咕「网·Ⅰ」,#genre#
+晴彩广场舞「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=YanG-1989
+晴彩少年「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011525&livemode=1&stbId=YanG-1989
+晴彩竞技「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=YanG-1989
+晴彩篮球「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011529&livemode=1&stbId=YanG-1989
+咪咕直播4K「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=YanG-1989
+咪咕直播 𝟙「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=YanG-1989
+咪咕直播 𝟚「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=YanG-1989
+咪咕直播 𝟛「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=YanG-1989
+咪咕直播 𝟜「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008001&livemode=1&stbId=YanG-1989
+咪咕直播 𝟝「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008176&livemode=1&stbId=YanG-1989
+咪咕直播 𝟞「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008379&livemode=1&stbId=YanG-1989
+咪咕直播 𝟟「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010129&livemode=1&stbId=YanG-1989
+咪咕直播 𝟠「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010948&livemode=1&stbId=YanG-1989
+咪咕直播 𝟡「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000028638&livemode=1&stbId=YanG-1989
+咪咕直播 𝟙𝟘「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000031494&livemode=1&stbId=YanG-1989
+咪咕直播 𝟙𝟙「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000000097&livemode=1&stbId=YanG-1989
+咪咕直播 𝟙𝟚「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002019&livemode=1&stbId=YanG-1989
+咪咕直播 𝟙𝟛「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002809&livemode=1&stbId=YanG-1989
+咪咕直播 𝟙𝟜「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000003915&livemode=1&stbId=YanG-1989
+咪咕直播 𝟙𝟝「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000004193&livemode=1&stbId=YanG-1989
+咪咕直播 𝟙𝟞「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005837&livemode=1&stbId=YanG-1989
+咪咕直播 𝟙𝟟「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006077&livemode=1&stbId=YanG-1989
+咪咕直播 𝟙𝟠「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006658&livemode=1&stbId=YanG-1989
+咪咕直播 𝟙𝟡「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000009788&livemode=1&stbId=YanG-1989
+咪咕直播 𝟚𝟘「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000010833&livemode=1&stbId=YanG-1989
+咪咕直播 𝟚𝟙「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011297&livemode=1&stbId=YanG-1989
+咪咕直播 𝟚𝟚「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011518&livemode=1&stbId=YanG-1989
+咪咕直播 𝟚𝟛「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012558&livemode=1&stbId=YanG-1989
+咪咕直播 𝟚𝟜「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012616&livemode=1&stbId=YanG-1989
+咪咕直播 𝟚𝟝「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015470&livemode=1&stbId=YanG-1989
+咪咕直播 𝟚𝟞「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015560&livemode=1&stbId=YanG-1989
+咪咕直播 𝟚𝟟「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000017678&livemode=1&stbId=YanG-1989
+咪咕直播 𝟚𝟠「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000019839&livemode=1&stbId=YanG-1989
+咪咕直播 𝟚𝟡「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000021904&livemode=1&stbId=YanG-1989
+咪咕直播 𝟛𝟘「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000023434&livemode=1&stbId=YanG-1989
+咪咕直播 𝟛𝟙「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000025380&livemode=1&stbId=YanG-1989
+咪咕直播 𝟛𝟚「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000027691&livemode=1&stbId=YanG-1989
+咪咕直播 𝟛𝟛「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000031669&livemode=1&stbId=YanG-1989
+咪咕直播 𝟛𝟜「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011518&livemode=1&stbId=YanG-1989
+咪咕直播 𝟛𝟝「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011519&livemode=1&stbId=YanG-1989
+咪咕直播 𝟛𝟞「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011520&livemode=1&stbId=YanG-1989
+咪咕直播 𝟛𝟟「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011521&livemode=1&stbId=YanG-1989
+咪咕直播 𝟛𝟠「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011522&livemode=1&stbId=YanG-1989
 
 油管频道,#genre#
 中天新闻,http://192.168.2.1:35455/youtube/J7Tyuv1T4W0
