@@ -1019,7 +1019,7 @@ CN卡通,https://cdn.iptv8k.top/dl/jrys.php?id=364&time=20240926215313&ip=111.22
 怡然B,http://gcalic.v.myalicdn.com/gc/xiongmao16_1/index.m3u8
 
 油管频道,#genre#
-中天新闻,http://192.168.2.1:35455/youtube/J7Tyuv1T4W0
+中天新闻,http://192.168.2.1:35455/youtube/vr3XyVCR4T0
 中天新闻+,http://192.168.2.1:35455/youtube/DM_PEM8GrIg
 中视新闻,http://192.168.2.1:35455/youtube/TCnaIE_SAtM
 東森新聞 51,http://192.168.2.1:35455/youtube/E0zhe2gkXBs
